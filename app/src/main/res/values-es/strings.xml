@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">(Translate)SimpleAndroidApp</string>
-    <string name="edit_message">(Translate)Enter a message</string>
-    <string name="button_send">(Translate)Send</string>
-</resources>
